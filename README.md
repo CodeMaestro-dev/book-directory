@@ -1,33 +1,33 @@
-    # book-directory
+# book-directory
 
-    ## Description
-    A Node.js project scaffolded by Banah JS.
-    You could check the project up on Github, here's the link: <https://github.com/CodeMaestro-dev/banah.js/tree/main>
+## Description
+A Node.js project scaffolded by Banah JS.
+You could check the project up on Github, here's the link: <https://github.com/CodeMaestro-dev/banah.js/tree/main>
 
-    ## Installation
+## Installation
 
-    To install the project dependencies, run, however banah automatically installs the dependencies:
+To install the project dependencies, run, however banah automatically installs the dependencies:
 
-    ```
-    npm install
+```
+npm install
 
-    ```
+```
 
-    ## Usage
+## Usage
 
-    To start the application, run:
+To start the application, run:
 
-    ```
-    npm run start
+```
+npm run start
 
-    ```
+```
 
-    To run the application in development mode with automatic restarts:
+To run the application in development mode with automatic restarts:
 
-    ```
-    npm run server
+```
+npm run server
 
-    ```
+```
 
-    ## License
-    This project is licensed under the MIT License.
+## License
+This project is licensed under the MIT License.
